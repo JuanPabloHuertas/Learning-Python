@@ -26,6 +26,8 @@ print(diccionario)
 #Una lista dentro de un diccionario
 milista=["Colombia","Francia","Reino Unido","España"]
 diccionario_lista={milista[0]:"Bogotá",milista[1]:"Paris",milista[2]:"Londres",milista[3]:"Madrid"}
+#################################################################
+#Imprimir valor específico
 print(diccionario_lista["España"])
 
 #################################################################
